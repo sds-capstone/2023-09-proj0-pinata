@@ -34,6 +34,9 @@ text looks like, for margins and spacing.
 
 @Campbell02 @Schubert13 [@Chi81]
 
+
+Albert Y. Kim
+
 The quick brown fox jumped over the lazy dog.
 The quick brown fox jumped over the lazy dog.
 The quick brown fox jumped over the lazy dog.
@@ -56,6 +59,8 @@ The quick brown fox jumped over the lazy dog.
 The quick brown fox jumped over the lazy dog.
 The quick brown fox jumped over the lazy dog.
 The quick brown fox jumped over the lazy dog.
+
+Cosme Fulanito
 
 The quick brown fox jumped over the lazy dog.
 The quick brown fox jumped over the lazy dog.
